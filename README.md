@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/Shubhamgoyalll/"><img height="30" src="https://raw.githubusercontent.com/shubhamgoyalll/shubham/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3>I am a <img height="40" width="50" src="https://raw.githubusercontent.com/shubhamgoyalll/shubham/master/icons/coder.png?raw=true">
+<h3>I am a <img height="40" width="80" src="https://raw.githubusercontent.com/shubhamgoyalll/shubham/master/icons/coder.png?raw=true">
 </div>
 <div align="center">
 <h3>  Shubham |  Software Engineer | 🌏 New Delhi, India </h3>
