@@ -12,7 +12,7 @@
 <h2>I am a &nbsp; <img height="40" width="110" src="https://raw.githubusercontent.com/shubhamgoyalll/shubham/master/icons/coder.png?raw=true">
 </div>
 <div align="center">
-<h3>  Shubham |  Software Engineer | 🌏 New Delhi, India </h3>
+<h3>  Shubham |  Software Developer | 🌏 New Delhi, India </h3>
 </div>
 
 ### About me 
