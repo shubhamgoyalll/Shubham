@@ -18,7 +18,7 @@
 
 ### About me 
 
-- 🎖 Student at Guru Gobind Singh University. 
+- 🎖 Studied at Guru Gobind Singh University. 
 - 👀 I talk about all things tech related [here](https://www.instagram.com/shubhamgoyalll/) 
 - 🌱 Learning `Javascript`, `Reactjs` and more.
 
