@@ -12,7 +12,7 @@
 <h2>I am a &nbsp; <img height="40" width="110" src="https://raw.githubusercontent.com/shubhamgoyalll/shubham/master/icons/coder.png?raw=true">
 </div>
 <div align="center">
-<h3>  Shubham |  Frontend Developer | 🌏 New Delhi, India </h3>
+<h3>  Shubham |  Full Stack Developer | 🌏 New Delhi, India </h3>
 </div>
  <h4> To view my portfolio - https://shubhamgoyalll.github.io </h4>
 
@@ -20,7 +20,7 @@
 
 - 🎖 Studied at Guru Gobind Singh University. 
 - 👀 I talk about all things tech related [here](https://www.instagram.com/shubhamgoyalll/) 
-- 🌱 Working on `Javascript`, `Reactjs` and more.
+- 🌱 Working on `Javascript`, `Next.js`, `Reactjs`, `Node.js` and more.
 
 
 <!--
